@@ -1,0 +1,18 @@
+Test statistics [KS CVM]
+    0.6505    0.0608
+
+Critical Values, 1% 5% 10%
+One-step-ahead density calibration test
+Kolmogorov-Smirnov Test
+    1.6100    1.3400    1.2100
+
+Cramer-von-Mises Test
+    0.7400    0.4600    0.3500
+
+Multi-step-ahead density calibration test
+Kolmogorov-Smirnov Test
+    1.5907    1.3238    1.1339
+
+Cramer-von-Mises Test
+    0.8196    0.5052    0.3318
+
